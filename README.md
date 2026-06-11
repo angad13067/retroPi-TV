@@ -6,14 +6,6 @@ This project combines embedded Linux configuration, Raspberry Pi GPIO control, v
 
 ---
 
-## Preview
-
-### Final Build
-
-
-![Final RetroPi TV Build](assets/RetroTV_web.mp4)
-
-
 ## Project Overview
 
 RetroPi TV is a compact Raspberry Pi-based media device designed to behave like a tiny always-on television. When powered on, the Raspberry Pi boots into a Linux environment, automatically starts the video player service, and continuously plays randomized local video files from storage.
