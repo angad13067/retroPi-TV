@@ -1,3 +1,13 @@
+
+
+
+
+
+https://github.com/user-attachments/assets/6fa8d45e-5818-46ae-a730-c6f26aba73da
+
+
+
+
 # RetroPi TV
 
 This is a miniature Raspberry Pi-powered desktop TV that continuously plays local video files on a small display, creating the effect of an always-on retro media appliance.
