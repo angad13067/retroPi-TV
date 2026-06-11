@@ -11,7 +11,7 @@ This project combines embedded Linux configuration, Raspberry Pi GPIO control, v
 ### Final Build
 
 
-![Final RetroPi TV Build](assets/RetroTV_web.gif)
+![Final RetroPi TV Build](assets/RetroTV_web.mp4)
 
 
 ## Project Overview
